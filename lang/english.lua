@@ -3,6 +3,7 @@ local URL = require('socket.url')
 function en.lang()
     local info = 
     {
+	name = 'English', --File name
         welcome = {
 			text = 'Welcome $username , I am $botname. I shorten urls to make them easier to share and save!!\nFor more information <a href="https://t.me/$botusername?start=help">Click Here</a>',
 			keyboard = {
