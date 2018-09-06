@@ -172,6 +172,7 @@ function en.lang()
 					{text = 'Arabic', callback_data = 'mklang ar'},
 					{text = 'English', callback_data = 'mklang ar'},
 					},
+				},
 			},
     }
     return info
