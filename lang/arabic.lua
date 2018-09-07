@@ -4,6 +4,7 @@ function ar.lang()
     local info = 
     {
 	name = 'العربية', --File name
+	credits = 't.me/dakong',
         welcome = {
 			text = 'اهلا بك يا $username , اسمي $botname. اقوم باختصار الروابط لكي تصبح سهلة المشاركة و الحفظ!!\nللمزيد من المعلومات <a href="https://t.me/$botusername?start=help">اضغط هنا</a>',
 			keyboard = {
