@@ -58,6 +58,7 @@ function en.lang()
 		shorten = {
 			text = 'Send the url you want to shorten.',
 			text1 = 'Shorting link :\n',
+			text2 = 'Shorting....',
 			},
 		about = {
 			text = 'This bot is written by @dakong Powered By @IBcorp,\nFor Bug report and More Information Contact @dakong\nVersion 2.3.6 (special release)',
