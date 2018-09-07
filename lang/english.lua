@@ -65,7 +65,7 @@ function en.lang()
 			text = 'This bot is written by @dakong Powered By @IBcorp,\nFor Bug report and More Information Contact @dakong\nVersion 2.3.6 (special release)',
 			},
 		help = {
-			text = '*How To Shorten\n-------------------------*\nThere are *Three* ways to shorten :\n1- pressing on *Shorten* Button in the Main Menu.\n2- Typing /shorten .\n3- Typing /shorten "*URL HERE*", EX: /shorten www.telegram.org .\n4- *Sending a url* and the bot will detect it and shorten it right away.',
+			text = '*How To Shorten\n-------------------------*\nThere are *Four* ways to shorten :\n1- pressing on *Shorten* Button in the Main Menu.\n2- Typing /shorten .\n3- Typing /shorten "*URL HERE*", EX: /shorten www.telegram.org .\n4- *Sending a url* and the bot will detect it and shorten it right away.',
 			},
 		settings = {
 			text = 'Settings :\nCurrent Token : #token\nLinks Shortened : #links',
