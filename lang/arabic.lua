@@ -176,6 +176,7 @@ function ar.lang()
 			text3 = 'Shorten Failed',
 			text4 = 'How To Use Me',
 			text5 = 'URL is Not Valid...',
+			text6 = 'Enter a Valid URL Please, Ex: www.telegram.org',
 			},
     }
     return info
