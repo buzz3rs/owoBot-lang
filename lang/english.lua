@@ -181,6 +181,7 @@ function en.lang()
 			text2 = 'Automatically Detecet Links And Shorten Them and Replace Them',
 			text3 = 'Shorten Failed',
 			text4 = 'How To Use Me',
+			text5 = 'URL is Not Valid...',
 			},
     }
     return info
