@@ -179,10 +179,11 @@ function en.lang()
 		inline = {
 			text = 'Auto Replace',
 			text2 = 'Automatically Detecet Links And Shorten Them and Replace Them',
-			text3 = 'Shorten Failed',
+			text3 = '$link : Shorten Failed',
 			text4 = 'How To Use Me',
-			text5 = 'URL is Not Valid...',
-			text6 = 'Enter a Valid URL Please, Ex: www.telegram.org',
+			text5 = '$link is Not a Valid URL...',
+			text6 = 'Enter a Valid/Working URL Please, Ex: www.telegram.org',
+			text7 = 'This URL is not Valid'
 			},
     }
     return info
