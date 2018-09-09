@@ -171,13 +171,13 @@ function ar.lang()
 			text = 'اختر لغتك',
 			},
 		inline = {
-			text = 'Auto Replace',
-			text2 = 'Automatically Detecet Links And Shorten Them and Replace Them',
-			text3 = '$link : Shorten Failed',
-			text4 = 'How To Use Me',
-			text5 = '$link is Not a Valid URL...',
-			text6 = 'Enter a Valid/Working URL Please, Ex: www.telegram.org',
-			text7 = 'This URL is not Valid'
+			text = 'استبدال تلقائي',
+			text2 = 'الكشف تلقائيا عن الروابط داخل النص و استبدالها بروابط مختصرة',
+			text3 = '$link : فشل في الاختصار',
+			text4 = 'كيفية استخدامي',
+			text5 = '$link ليس رابط صالح...',
+			text6 = 'رجاءا قم بادخال رابط صالح, مثال: www.telegram.org',
+			text7 = 'هذا ليس رابط'
 			},
     }
     return info
