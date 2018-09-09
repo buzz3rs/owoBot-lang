@@ -152,7 +152,7 @@ function en.lang()
 			text3 = 'Please send a valid link',
 			text4 = 'This Token is Invalid.',
 			text5 = 'Shortening Failed :\nInvalid URL or Invalid Token.',
-			text6 = 'Failed To Shorten ...',
+			text6 = 'Shortening Failed :\nInvalid URL ...',
 			text7 = 'This message belongs to a bot and i do not promote bots...',
 			text8 = 'To Promote a user to admin, I only need a *Forwarded message* from him/her',
 			text9 = "You're Sudo, You needn't promote yourself to admin..",
