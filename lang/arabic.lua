@@ -174,6 +174,7 @@ function ar.lang()
 			text = 'Auto Replace',
 			text2 = 'Automatically Detecet Links And Shorten Them and Replace Them',
 			text3 = 'Shorten Failed',
+			text4 = 'How To Use Me',
 			},
     }
     return info
