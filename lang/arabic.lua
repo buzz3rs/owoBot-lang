@@ -170,6 +170,11 @@ function ar.lang()
 		lang = {
 			text = 'اختر لغتك',
 			},
+		inline = {
+			text = 'Auto Replace',
+			text2 = 'Automatically Detecet Links And Shorten Them and Replace Them'
+			text3 = 'Shorten Failed',
+			},
     }
     return info
 end
