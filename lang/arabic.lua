@@ -177,7 +177,7 @@ function ar.lang()
 			text4 = 'كيفية استخدامي',
 			text5 = '$link ليس رابط صالح...',
 			text6 = 'رجاءا قم بادخال رابط صالح, مثال: www.telegram.org',
-			text7 = 'هذا ليس رابط'
+			text7 = 'هذا ليس رابط صالح وفعال',
 			},
     }
     return info
