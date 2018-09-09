@@ -172,7 +172,7 @@ function ar.lang()
 			},
 		inline = {
 			text = 'Auto Replace',
-			text2 = 'Automatically Detecet Links And Shorten Them and Replace Them'
+			text2 = 'Automatically Detecet Links And Shorten Them and Replace Them',
 			text3 = 'Shorten Failed',
 			},
     }
